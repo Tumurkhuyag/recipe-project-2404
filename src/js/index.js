@@ -13,7 +13,7 @@ import {
   highlightSelectedRecipe,
 } from "./view/recipeView";
 
-// Веб аппын төлөв
+// - Веб аппын төлөв
 // - Хайлтын query, үр дүн
 // - Тухайн үзүүлж байгаа жор
 // - Тухайн үзүүлж байгаа жор
